@@ -9,6 +9,8 @@ Test
   h1 {
     color:blue
   }
+  </style>
+  
   <title>Hello World</title>
 </head>
  
